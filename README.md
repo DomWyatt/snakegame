@@ -83,6 +83,14 @@ document.getElementById("pauseButton").addEventListener("click", function() {
 generateFood();
 drawSnake();
 
+git clone <REPO_URL>
+cd <REPO_NAME>
+# Copy your files here
+git add .
+git commit -m "Initial commit"
+git push origin main
+
+
 
 
 
